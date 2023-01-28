@@ -25,7 +25,7 @@ function Navbar() {
       <div className="topRight">
         <img className="topImage"
         //When using Webpack you need to require images in order for Webpack to process them
-        src={require("../Images/DSC02372.jpg")} alt="Manchester Deansgate" />
+        src={require("../Assets/DSC02372.jpg")} alt="Manchester Deansgate" />
         <FaSearch className="searchIcon" size={25} />
       </div>
     </div>
